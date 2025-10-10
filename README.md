@@ -4,7 +4,7 @@
 
 <pre> - 🇧🇷 Living in São Paulo, Brazil </pre>
 
-💬 Lover of technology and Games 🎮
+<b> 💬 Lover of technology and Games 🎮 </b>
 
 🔭 Always studying new tech stuff
 
