@@ -3,11 +3,12 @@
 <pre>  💻 18y | He/Him </pre> 
 
  ```md
-> ```diff
+```diff
 > + 🇧🇷 Living in Porto Seguro, Brazil 🌊
 > - 23 years old (that’s what they say…)
 > ! AQUA COCA LATÃO 💧 COCA LATÃO 🥤
 ```
+```diff
 
 <b> 💬 Lover of technology and Games 🎮 </b>
 
