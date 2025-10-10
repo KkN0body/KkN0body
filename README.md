@@ -1,12 +1,11 @@
 #Yuri Mauricio
 ```md
 ```diff
-> + 💻 18y | He/Him  
-```
+> -💻 18y | He/Him  
+```md
 <b> 💬 Lover of technology and Games 🎮 </b>
 ```
 🔭 Always studying new tech stuff
-```
 ---
 
 ### 🧰 My Tools
