@@ -2,7 +2,7 @@
 
 <pre>  💻 18y | He/Him </pre> 
 
-- 🇧🇷 Living in São Paulo, Brazil 
+<diff> - 🇧🇷 Living in São Paulo, Brazil </diff>
 
 💬 Lover of technology and Games 🎮
 
