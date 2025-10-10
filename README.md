@@ -1,6 +1,7 @@
 #Yuri Mauricio
 
 💻 18y | He/Him  
+
 🇧🇷 Living in São Paulo, Brazil 
 
 💬 Lover of technology and Games 🎮
