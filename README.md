@@ -2,11 +2,13 @@
 
 ```diff
 + 🇧🇷 Living in São Paulo, Brazil 
-! 23 years old (that’s what they say…)
+! 18 years old
 # <b> 💬 Lover of technology and Games 🎮 </b>
 💻 18y | He/Him  
 🔭 Always studying new tech stuff
+```
 ---
+```
 ```
 ### 🧰 My Tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
