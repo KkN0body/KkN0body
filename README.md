@@ -2,9 +2,9 @@
 ```md
 ```diff
  + 💻 18y | He/Him  
-
+```
 <b> 💬 Lover of technology and Games 🎮 </b>
-
+```
 🔭 Always studying new tech stuff
 ```
 ---
