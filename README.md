@@ -1,6 +1,6 @@
 #Yuri Mauricio
 
-+ 💻 18y | He/Him  
+<pre> + 💻 18y | He/Him </pre> 
 
 - 🇧🇷 Living in São Paulo, Brazil 
 
