@@ -1,4 +1,4 @@
-# Yuri Mauricio
+#Yuri Mauricio
 
 💻 18y | He/Him  
 🇧🇷 Living in São Paulo, Brazil 
