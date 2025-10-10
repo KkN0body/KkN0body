@@ -4,7 +4,7 @@
 + 🇧🇷 Living in São Paulo, Brazil 
 ! 18 years old
 # 💬 Lover of technology and Games 🎮 
-💻 18y | He/Him  
+# He/Him  
 🔭 Always studying new tech stuff
 ```
 ---
