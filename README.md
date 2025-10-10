@@ -20,5 +20,5 @@
 ### ✨ Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KkN0body&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KkN0body&layout=compact&theme=tokyonight)
-![trophy](https://github-profile-trophy.vercel.app/?username=KkN0body&theme=tokyonight&no-frame=true&margin-w=10)
+
 
