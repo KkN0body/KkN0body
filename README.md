@@ -2,7 +2,9 @@
 
 💻 18y | He/Him  
 🇧🇷 Living in São Paulo, Brazil 
+
 💬 Lover of technology and Games 🎮
+
 🔭 Always studying new tech stuff
 
 ---
