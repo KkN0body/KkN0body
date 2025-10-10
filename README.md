@@ -1,17 +1,13 @@
 #Yuri Mauricio
 
 ```diff
-+ 🇧🇷 Living in Porto Seguro, Brazil 🌊
++ 🇧🇷 Living in São Paulo, Brazil 
 ! 23 years old (that’s what they say…)
-# 💻 NodeJS and React programmer always studying some technology
-
-> -💻 18y | He/Him  
-
-<b> 💬 Lover of technology and Games 🎮 </b>
-
+# <b> 💬 Lover of technology and Games 🎮 </b>
+💻 18y | He/Him  
 🔭 Always studying new tech stuff
 ---
-
+```
 ### 🧰 My Tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
