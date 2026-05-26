@@ -2,7 +2,7 @@
 
 ```diff
 + 🇧🇷 Living in São Paulo, Brazil 
-! 18 years old
+! 19 years old
 # 💬 Lover of technology and Games 🎮 
 # He/Him  
 🔭 Always studying new tech stuff
