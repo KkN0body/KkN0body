@@ -1,4 +1,5 @@
-#Yuri Mauricio
+### Hello, i'm Yuri Mauricio
+---
 
 ```diff
 + 🇧🇷 Living in São Paulo, Brazil 
